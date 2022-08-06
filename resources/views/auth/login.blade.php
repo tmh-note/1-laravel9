@@ -1,4 +1,4 @@
-<x-guest-layout mytitle="Login">
+<x-guest-layout>
     <x-auth-card>
         <x-slot name="logo">
             <a href="/">
